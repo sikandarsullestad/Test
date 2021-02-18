@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oppgave", "Oppgave\Oppgave.csproj", "{9D415C9C-724F-4836-A29D-FB09B0C923C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriceLogic", "PriceLogic\PriceLogic.csproj", "{47EB5699-8823-474F-9A76-786999F6BF74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{CF764C17-9A2B-4073-B165-578512637FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D415C9C-724F-4836-A29D-FB09B0C923C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D415C9C-724F-4836-A29D-FB09B0C923C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D415C9C-724F-4836-A29D-FB09B0C923C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D415C9C-724F-4836-A29D-FB09B0C923C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EB5699-8823-474F-9A76-786999F6BF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EB5699-8823-474F-9A76-786999F6BF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EB5699-8823-474F-9A76-786999F6BF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EB5699-8823-474F-9A76-786999F6BF74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF764C17-9A2B-4073-B165-578512637FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF764C17-9A2B-4073-B165-578512637FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF764C17-9A2B-4073-B165-578512637FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF764C17-9A2B-4073-B165-578512637FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D685A9BA-724A-4029-B273-DB23927136E4}
+	EndGlobalSection
+EndGlobal
